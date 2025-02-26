@@ -181,7 +181,7 @@ The astronomer retrieves previously collected astronomical data for analysis.
 2. The astronomer enters the search criteria.  
 3. The system retrieves relevant data based on the provided criteria.   
 4. The system processes the request and provides a download link.  
-5. The astronomer downloads the data and confirms successful retrieval.  
+5. The astronomer downloads the data. 
 
 ### Subflows  
 - *3.1* If adjustments to the search criteria are needed, the astronomer returns to step 2. 
