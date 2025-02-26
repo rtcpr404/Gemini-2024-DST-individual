@@ -187,9 +187,7 @@ The astronomer retrieves previously collected astronomical data for analysis.
 - *3.1* If adjustments to the search criteria are needed, the astronomer returns to step 2. 
 - *5.1* If the astronomer wants to download data, they select the desired files.  
 
-### Alternate/Exceptional Flow  
-- *If no data matches the criteria,* the system notifies the astronomer and returns to step 3.  
-- *If a file retrieval error occurs,* the system prompts the astronomer to retry the download
+
 
 
 ---
