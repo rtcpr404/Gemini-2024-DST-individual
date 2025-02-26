@@ -238,3 +238,16 @@ The astronomer accesses the live feed from the telescope to monitor real-time ob
 
 # Class Diagram
 ![Image](https://github.com/user-attachments/assets/03e68ab9-804f-4e31-97df-090fddbd1ba5)
+
+# Sequence Diagram
+## Sequence Diagram 1 Create a Science Plan
+![image](https://github.com/user-attachments/assets/31aca340-900f-4c6d-9731-ee57fc5c0ae3)
+## Sequence Diagram 2 Test a Science Plan
+![image](https://github.com/user-attachments/assets/7c022ac6-77e0-4b42-bfda-2f6cb2fd48ab)
+## Sequence Diagram 3 Operate the Interactive Observing
+![image](https://github.com/user-attachments/assets/f8e3f284-255f-4012-a940-d394383e194d)
+
+
+
+
+
