@@ -227,9 +227,15 @@ The astronomer accesses the live feed from the telescope to monitor real-time ob
 - *If the connection fails repeatedly,* the system notifies the astronomer and logs the issue.
 
 # Activity Diagrams
+## Activity Diagram 1 Create a Science Plan
 ![activity diagram 1 Create a Science Plan](https://github.com/user-attachments/assets/546e3139-1ad5-4a5a-bc2d-b784f459aefa)
+## Activity Diagram 2 Test a Science Plan
 ![activity diagram 2 Test a Science Plan](https://github.com/user-attachments/assets/da6199d5-cfcf-4c8a-b3c8-491a6b625aff)
+## Activity Diagram 3 Operate the Interactive Observing
 ![activity diagram 3 Operate the Interactive Observing](https://github.com/user-attachments/assets/c8ace34a-2b78-4fd9-9f5a-419956ae9a0d)
+## Activity Diagram 4 Submit a Science Plan
 ![activity diagram 4 Submit a Science Plan](https://github.com/user-attachments/assets/cee6dfef-bc4a-494d-bb30-f37937d7d135)
+## Activity Diagram 5 Access Astronomical Data
 ![activity diagram 5 Access Astronomical Data](https://github.com/user-attachments/assets/566bfc92-ea16-485e-812e-e529f46a5f46)
+## Activity Diagram 6 Access Live View of Telescope
 ![activity diagram 6 Access Live View of Telescope](https://github.com/user-attachments/assets/5b5bcd12-a832-4dfd-b88b-f12ec49dc586)
