@@ -66,16 +66,14 @@ The astronomer tests a science plan before submission to ensure feasibility and 
 
 ### Normal Flow of Events
 1. The astronomer selects an existing science plan for testing.
-2. Operate the Interactive Observing (Virtual Telescope)
+2. The system simulates the observation.
 3. The system checks for inconsistencies or errors in the plan.
-4. The system provides feedback on the feasibility of the science plan.
+4. Operate the Interactive Observing (Virtual Telescope)
+5. The system provides feedback on the feasibility of the science plan.
 
 ### Subflows
-- *4.1* If errors are found, the astronomer revises the plan
-- *4.2*  If errors are not found, the plan has been test successfully.
-
-### Alternate/Exceptional Flow
-- *If system resources are unavailable,* the astronomer is prompted to retry later.
+- *5.1* If errors are found, the astronomer revises the plan
+- *5.2*  If errors are not found, the plan has been test successfully.
 
 ---
 
