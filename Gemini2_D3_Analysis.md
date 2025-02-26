@@ -238,4 +238,5 @@ The astronomer accesses the live feed from the telescope to monitor real-time ob
 ## Activity Diagram 5 Access Astronomical Data
 ![activity diagram 5 Access Astronomical Data](https://github.com/user-attachments/assets/566bfc92-ea16-485e-812e-e529f46a5f46)
 ## Activity Diagram 6 Access Live View of Telescope
-![activity diagram 6 Access Live View of Telescope](https://github.com/user-attachments/assets/5b5bcd12-a832-4dfd-b88b-f12ec49dc586)
+![activity diagram 6 Access Live View of Telescope](https://github.com/user-attachments/assets/e989b3b0-e23f-4a6b-ba46-62fe43acdb69)
+
