@@ -246,7 +246,12 @@ The astronomer accesses the live feed from the telescope to monitor real-time ob
 ![image](https://github.com/user-attachments/assets/7c022ac6-77e0-4b42-bfda-2f6cb2fd48ab)
 ## Sequence Diagram 3 Operate the Interactive Observing
 ![image](https://github.com/user-attachments/assets/f8e3f284-255f-4012-a940-d394383e194d)
-
+## Sequence Diagram 4 Sequence_Submit a Science Plan
+![4_Sequence_Submit a Science Plan  (1)](https://github.com/user-attachments/assets/6c60c821-5bc2-4df0-96ee-d51c124319d7)
+## Sequence Diagram 5 Sequence_Access Astronomical Data
+![5_Sequence_Access Astronomical Data (2)](https://github.com/user-attachments/assets/530742e2-f005-49fc-a3fc-e3e012e2a283)
+## Sequence Diagram 6 Access Live View of Telescope
+![6_Sequence_Access Live View of Telescope (5)](https://github.com/user-attachments/assets/b440e01c-b5de-4d00-aca9-7415a4959ecc)
 
 
 
