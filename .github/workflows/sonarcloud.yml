@@ -1,4 +1,4 @@
-name: SonarCloud workflow
+name: RTC New SonarCloud workflow
 on:
   push:
     branches:
